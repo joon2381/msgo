@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main()
+{
+	printf("서버 해킹")
+	return 0;
+}
